@@ -1,1 +1,1 @@
-# akiyo.github.io
+# akiyo-bot.github.io
